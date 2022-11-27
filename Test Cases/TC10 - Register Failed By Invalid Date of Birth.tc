@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - Register Failed By Invalid Date of Birth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f2d69b4-d88a-4afd-8cba-0f29522df78f</testCaseGuid>
+</TestCaseEntity>

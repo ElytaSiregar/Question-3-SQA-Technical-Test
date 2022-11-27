@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 - Register Failed By Null Phone Number or Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a88593a1-1d19-4252-9206-729f5151faff</testCaseGuid>
+</TestCaseEntity>

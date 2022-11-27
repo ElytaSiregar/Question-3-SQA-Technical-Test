@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - Register Failed By Custom Gender (Null Pronoun)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>055a63bc-ea7d-4cfb-8882-d14ef61f09e2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7 - Register Failed By Invalid Re - Enter Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6efb03b1-424a-4937-9c55-2b7d6873f64e</testCaseGuid>
+</TestCaseEntity>

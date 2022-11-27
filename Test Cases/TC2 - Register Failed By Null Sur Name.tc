@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 - Register Failed By Null Sur Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9d316c0-8e4a-4166-85ba-f51a09e2140b</testCaseGuid>
+</TestCaseEntity>

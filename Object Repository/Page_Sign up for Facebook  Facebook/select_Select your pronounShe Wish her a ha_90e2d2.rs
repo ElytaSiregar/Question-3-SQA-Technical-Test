@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select your pronounShe Wish her a ha_90e2d2</name>
+   <tag></tag>
+   <elementGuidId>b35a2cc2-1192-4718-a9ee-2391d24cf916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;preferred_pronoun&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='preferred_pronoun']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name = 'preferred_pronoun']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>105fa554-04f0-4b84-8b10-6248c6738a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select your pronoun</value>
+      <webElementGuid>8af78f0c-e7c3-4ffb-b62b-ecf5b0d8a942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>preferred_pronoun</value>
+      <webElementGuid>c3106c09-8d72-4b4b-8cad-20c48a21553a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_7-16 _9hk6 _5dba</value>
+      <webElementGuid>516009f8-037d-45a9-b682-4a4cd16f2f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select your pronounShe: &quot;Wish her a happy birthday!&quot;He: &quot;Wish him a happy birthday!&quot;They: &quot;Wish them a happy birthday!&quot;</value>
+      <webElementGuid>83901952-3345-4b24-95f0-4099556a7f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_p_PO&quot;)/select[@class=&quot;_7-16 _9hk6 _5dba&quot;]</value>
+      <webElementGuid>4130f2d8-324c-4ce6-a62f-c39e38fa51e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='preferred_pronoun']</value>
+      <webElementGuid>baa279d8-58f7-4e7b-b6df-23e0bf7b400e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='u_0_p_PO']/select</value>
+      <webElementGuid>a99a1eb8-e1c9-4fd1-9c9f-edab2bd7a42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/following::select[1]</value>
+      <webElementGuid>8f680bf8-92a6-4302-8d2f-774e62898acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::select[1]</value>
+      <webElementGuid>5f231e9f-c010-4e90-802a-13700074f196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your pronoun is visible to everyone.'])[1]/preceding::select[1]</value>
+      <webElementGuid>fe98840e-dc0a-472f-a306-2317c901c425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::select[1]</value>
+      <webElementGuid>e263ba21-c950-4aa8-9368-f751f37b05e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/select</value>
+      <webElementGuid>e1718f17-f9c4-4392-84a6-4539dcd98c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'preferred_pronoun' and (text() = 'Select your pronounShe: &quot;Wish her a happy birthday!&quot;He: &quot;Wish him a happy birthday!&quot;They: &quot;Wish them a happy birthday!&quot;' or . = 'Select your pronounShe: &quot;Wish her a happy birthday!&quot;He: &quot;Wish him a happy birthday!&quot;They: &quot;Wish them a happy birthday!&quot;')]</value>
+      <webElementGuid>5462e2ef-537e-45d0-913b-2a8b4bbd01fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

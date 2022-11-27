@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create a new accountIts quick and easy._a7d0d9</name>
+   <tag></tag>
+   <elementGuidId>b900f04f-fd6b-47a1-bafe-8db94e419b5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._8esf._8f3m._9bpz._9bq9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06a6f675-0c77-4593-9b00-24d726755943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8esf _8f3m _9bpz _9bq9</value>
+      <webElementGuid>91c8a6b2-a526-4b6f-b2c6-1b37592fcbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a new accountIt's quick and easy.&lt;div id=&quot;no_js_box&quot;>&lt;h2>JavaScript is disabled in your browser.&lt;/h2>&lt;p>Please enable JavaScript in your browser or upgrade to a JavaScript-capable browser to register for Facebook.&lt;/p>&lt;/div>An error occurred. Please try again.We couldn't create your accountWe were not able to sign you up for Facebook.First nameSurnameMobile number or email addressRe-enter email addressNew passwordDate of birth12345678910111213141516171819202122232425262728293031JanFebMarAprMayJunJulAugSepOctNovDec2022202120202019201820172016201520142013201220112010200920082007200620052004200320022001200019991998199719961995199419931992199119901989198819871986198519841983198219811980197919781977197619751974197319721971197019691968196719661965196419631962196119601959195819571956195519541953195219511950194919481947194619451944194319421941194019391938193719361935193419331932193119301929192819271926192519241923192219211920191919181917191619151914191319121911191019091908190719061905AgeYour ageUse date of birthGenderFemaleMaleCustomSelect your pronounShe: &quot;Wish her a happy birthday!&quot;He: &quot;Wish him a happy birthday!&quot;They: &quot;Wish them a happy birthday!&quot;Your pronoun is visible to everyone.Gender (optional)People who use our service may have uploaded your contact information to Facebook. Learn more.By clicking Sign Up, you agree to our Terms, Privacy Policy and Cookies Policy. You may receive SMS notifications from us and can opt out at any time.Sign UpAlready have an account?Security checkThis field is required.Why am I seeing this?Security checkThis is a standard security test that we use to prevent spammers from sending automated requests.   BackSign UpCreate a Page for a celebrity, brand or business.</value>
+      <webElementGuid>b2a95d79-00c6-416a-a620-b71ff77aa3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;_8esf _8f3m _9bpz _9bq9&quot;]</value>
+      <webElementGuid>2a41cd83-44ee-42e3-a9b5-c478f377c042</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]</value>
+      <webElementGuid>9f12e827-0e7b-405b-9b96-1b2cf12fd7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>87a3d862-244f-4353-981c-a318647f0d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Create a new accountIt&quot; , &quot;'&quot; , &quot;s quick and easy.&lt;div id=&quot;no_js_box&quot;>&lt;h2>JavaScript is disabled in your browser.&lt;/h2>&lt;p>Please enable JavaScript in your browser or upgrade to a JavaScript-capable browser to register for Facebook.&lt;/p>&lt;/div>An error occurred. Please try again.We couldn&quot; , &quot;'&quot; , &quot;t create your accountWe were not able to sign you up for Facebook.First nameSurnameMobile number or email addressRe-enter email addressNew passwordDate of birth12345678910111213141516171819202122232425262728293031JanFebMarAprMayJunJulAugSepOctNovDec2022202120202019201820172016201520142013201220112010200920082007200620052004200320022001200019991998199719961995199419931992199119901989198819871986198519841983198219811980197919781977197619751974197319721971197019691968196719661965196419631962196119601959195819571956195519541953195219511950194919481947194619451944194319421941194019391938193719361935193419331932193119301929192819271926192519241923192219211920191919181917191619151914191319121911191019091908190719061905AgeYour ageUse date of birthGenderFemaleMaleCustomSelect your pronounShe: &quot;Wish her a happy birthday!&quot;He: &quot;Wish him a happy birthday!&quot;They: &quot;Wish them a happy birthday!&quot;Your pronoun is visible to everyone.Gender (optional)People who use our service may have uploaded your contact information to Facebook. Learn more.By clicking Sign Up, you agree to our Terms, Privacy Policy and Cookies Policy. You may receive SMS notifications from us and can opt out at any time.Sign UpAlready have an account?Security checkThis field is required.Why am I seeing this?Security checkThis is a standard security test that we use to prevent spammers from sending automated requests.   BackSign UpCreate a Page for a celebrity, brand or business.&quot;) or . = concat(&quot;Create a new accountIt&quot; , &quot;'&quot; , &quot;s quick and easy.&lt;div id=&quot;no_js_box&quot;>&lt;h2>JavaScript is disabled in your browser.&lt;/h2>&lt;p>Please enable JavaScript in your browser or upgrade to a JavaScript-capable browser to register for Facebook.&lt;/p>&lt;/div>An error occurred. Please try again.We couldn&quot; , &quot;'&quot; , &quot;t create your accountWe were not able to sign you up for Facebook.First nameSurnameMobile number or email addressRe-enter email addressNew passwordDate of birth12345678910111213141516171819202122232425262728293031JanFebMarAprMayJunJulAugSepOctNovDec2022202120202019201820172016201520142013201220112010200920082007200620052004200320022001200019991998199719961995199419931992199119901989198819871986198519841983198219811980197919781977197619751974197319721971197019691968196719661965196419631962196119601959195819571956195519541953195219511950194919481947194619451944194319421941194019391938193719361935193419331932193119301929192819271926192519241923192219211920191919181917191619151914191319121911191019091908190719061905AgeYour ageUse date of birthGenderFemaleMaleCustomSelect your pronounShe: &quot;Wish her a happy birthday!&quot;He: &quot;Wish him a happy birthday!&quot;They: &quot;Wish them a happy birthday!&quot;Your pronoun is visible to everyone.Gender (optional)People who use our service may have uploaded your contact information to Facebook. Learn more.By clicking Sign Up, you agree to our Terms, Privacy Policy and Cookies Policy. You may receive SMS notifications from us and can opt out at any time.Sign UpAlready have an account?Security checkThis field is required.Why am I seeing this?Security checkThis is a standard security test that we use to prevent spammers from sending automated requests.   BackSign UpCreate a Page for a celebrity, brand or business.&quot;))]</value>
+      <webElementGuid>6f10273b-9cc2-4337-ad57-4b525a7e9487</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

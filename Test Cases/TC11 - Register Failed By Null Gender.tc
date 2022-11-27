@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - Register Failed By Null Gender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f81db49c-df27-4bc5-8a79-b09620099cc7</testCaseGuid>
+</TestCaseEntity>
